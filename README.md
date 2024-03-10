@@ -1,4 +1,4 @@
-# Movie-app
+# MOVIE-APP
 
 The “movie app” project code is an HTML page with accompanying CSS and JavaScript.
 
