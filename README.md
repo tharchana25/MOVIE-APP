@@ -1,6 +1,6 @@
 # MOVIE-APP
 
-The “movie app” project code is an HTML page with accompanying CSS and JavaScript.
+The “MOVIE APP” project code is an HTML page with accompanying CSS and JavaScript.
 
 It represents a Movie App that allows users to search for movies and displays the results with movie posters, titles, ratings, and overviews.
 
